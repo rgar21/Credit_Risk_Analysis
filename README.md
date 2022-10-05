@@ -54,3 +54,7 @@ The intent of this analysis is to determine whether we should implement machine 
     * Recall: 0.91
 
 ![EasyEnsembleClassifier](https://user-images.githubusercontent.com/106921601/194128062-cd269149-03bc-4a8c-93ef-046eeda63ad8.PNG)
+
+## Summary
+
+
