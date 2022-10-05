@@ -2,7 +2,9 @@
 
 ## Purpose
 
-The intent of this analysis is to compile tables that will display information for employees that are have, will, or are eligible for retirement in the upcoming years. We will create two tables that will allow management to gain a better understanding of how retired employees will affect each employment type. The first table will display the employees that are eligible for retirement and segment them by job title. The second title will display all employees that are eligible for a mentorship program. Using these tables we will be able to help management decide what job title needs the mentorship program the most.
+The intent of this analysis is to determine if we should implement machine learning into our companies assessment of credit risk. Credit risk is an inherently unbalanced classification problem as the number of positive loans easily outnumber the negative ones. Therefore, we will use imbalanced-learn and scikit-learn libraries to create unbalanced classes to train our models. We will create and evaluate the below models to determine which one fits our needs the best:
+
+
 
 ## Results
 
