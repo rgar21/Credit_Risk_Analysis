@@ -8,11 +8,11 @@ The intent of this analysis is to compile tables that will display information f
 
   * Random Oversampler
 
-![Random_Oversampler](https://user-images.githubusercontent.com/106921601/194127969-ad8ea9a5-d878-46e9-      ab11-9e8403fb3d3b.PNG)
+![Random_Oversampler](https://user-images.githubusercontent.com/106921601/194127969-ad8ea9a5-d878-46e9-  ab11-9e8403fb3d3b.PNG)
 
  * SMOTE
 
-![SMOTE](https://user-images.githubusercontent.com/106921601/194127993-f95c602a-68b5-4c9c-b3e4-     c2beafb0525e.PNG)
+![SMOTE](https://user-images.githubusercontent.com/106921601/194127993-f95c602a-68b5-4c9c-b3e4-c2beafb0525e.PNG)
 
  * ClusterCentroids
 
