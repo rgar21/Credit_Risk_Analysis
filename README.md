@@ -2,9 +2,14 @@
 
 ## Purpose
 
-The intent of this analysis is to determine if we should implement machine learning into our companies assessment of credit risk. Credit risk is an inherently unbalanced classification problem as the number of positive loans easily outnumber the negative ones. Therefore, we will use imbalanced-learn and scikit-learn libraries to create unbalanced classes to train our models. We will create and evaluate the below models to determine which one fits our needs the best:
+The intent of this analysis is to determine whether we should implement machine learning into our companies assessment of credit risk. Credit risk is an inherently unbalanced classification problem as the number of positive loans easily outnumber the negative ones. Therefore, we will use imbalanced-learn and scikit-learn libraries to create unbalanced classes to train our models. We will create and evaluate the below models to determine which one fits our needs the best:
 
-
+  * RandomOverSampler
+  * SMOTE
+  * ClusterCentroids
+  * SMOTEENN
+  * BalancedRandomForestClassifier
+  * EasyEnsembleClassifier
 
 ## Results
 
@@ -20,7 +25,7 @@ The intent of this analysis is to determine if we should implement machine learn
 
 ![ClusterCentroids](https://user-images.githubusercontent.com/106921601/194128016-e72e996d-1aec-4c9a-a430-74a98d2690b5.PNG)
 
- * SMOTEEENN
+ * SMOTEENN
 
 ![SMOTEENN](https://user-images.githubusercontent.com/106921601/194128028-5b78bd23-cf26-4615-a9f0-8b5127e934ac.PNG)
 
