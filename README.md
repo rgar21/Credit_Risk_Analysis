@@ -17,25 +17,40 @@ The intent of this analysis is to determine whether we should implement machine 
     * Balanced Accuracy Score: 0.657
     * Precision: 0.01
     * Recall: 0.71 
-  
-![Random_Oversampler](https://user-images.githubusercontent.com/106921601/194129916-f5d17ff6-6e7f-4b55-9dd0-78574af3c074.PNG)
 
- * SMOTE
+![RandomOverSampler](https://user-images.githubusercontent.com/106921601/194139551-19f550f9-25e7-4bb1-b438-b3f5ccb22cf1.PNG)
+
+  * SMOTE
+    * Balanced Accuracy Score: 0.657
+    * Precision: 0.01
+    * Recall: 0.71  
 
 ![SMOTE](https://user-images.githubusercontent.com/106921601/194127993-f95c602a-68b5-4c9c-b3e4-c2beafb0525e.PNG)
 
- * ClusterCentroids
-
+  * ClusterCentroids
+    * Balanced Accuracy Score: 0.657
+    * Precision: 0.01
+    * Recall: 0.71 
+  
 ![ClusterCentroids](https://user-images.githubusercontent.com/106921601/194128016-e72e996d-1aec-4c9a-a430-74a98d2690b5.PNG)
 
- * SMOTEENN
-
+  * SMOTEENN
+    * Balanced Accuracy Score: 0.657
+    * Precision: 0.01
+    * Recall: 0.71 
+ 
 ![SMOTEENN](https://user-images.githubusercontent.com/106921601/194128028-5b78bd23-cf26-4615-a9f0-8b5127e934ac.PNG)
 
- * BalancedRandomForestClassifer
+  * BalancedRandomForestClassifer
+    * Balanced Accuracy Score: 0.657
+    * Precision: 0.01
+    * Recall: 0.71 
 
 ![BalancedRandonForestClassifier](https://user-images.githubusercontent.com/106921601/194128039-b7edd023-3b3f-411a-8e22-7512a5e749de.PNG)
 
  * EasyEnsembleClassifer
+    * Balanced Accuracy Score: 0.657
+    * Precision: 0.01
+    * Recall: 0.71 
 
 ![EasyEnsembleClassifier](https://user-images.githubusercontent.com/106921601/194128062-cd269149-03bc-4a8c-93ef-046eeda63ad8.PNG)
