@@ -10,22 +10,22 @@ The intent of this analysis is to compile tables that will display information f
 
 ![Random_Oversampler](https://user-images.githubusercontent.com/106921601/194127969-ad8ea9a5-d878-46e9-ab11-9e8403fb3d3b.PNG)
 
-SMOTE
+ * SMOTE
 
 ![SMOTE](https://user-images.githubusercontent.com/106921601/194127993-f95c602a-68b5-4c9c-b3e4-c2beafb0525e.PNG)
 
-ClusterCentroids
+ * ClusterCentroids
 
 ![ClusterCentroids](https://user-images.githubusercontent.com/106921601/194128016-e72e996d-1aec-4c9a-a430-74a98d2690b5.PNG)
 
-SMOTEEENN
+ * SMOTEEENN
 
 ![SMOTEENN](https://user-images.githubusercontent.com/106921601/194128028-5b78bd23-cf26-4615-a9f0-8b5127e934ac.PNG)
 
-BalancedRandomForestClassifer
+ * BalancedRandomForestClassifer
 
 ![BalancedRandonForestClassifier](https://user-images.githubusercontent.com/106921601/194128039-b7edd023-3b3f-411a-8e22-7512a5e749de.PNG)
 
-EasyEnsembleClassifer
+ * EasyEnsembleClassifer
 
 ![EasyEnsembleClassifier](https://user-images.githubusercontent.com/106921601/194128062-cd269149-03bc-4a8c-93ef-046eeda63ad8.PNG)
