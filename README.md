@@ -14,7 +14,10 @@ The intent of this analysis is to determine whether we should implement machine 
 ## Results
 
   * Random Oversampler
-
+    * Balanced Accuracy Score: 0.657
+    * Precision: 0.01
+    * Recall: 0.71 
+  
 ![Random_Oversampler](https://user-images.githubusercontent.com/106921601/194129916-f5d17ff6-6e7f-4b55-9dd0-78574af3c074.PNG)
 
  * SMOTE
