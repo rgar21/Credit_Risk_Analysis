@@ -57,6 +57,6 @@ The intent of this analysis is to determine whether we should implement machine 
 
 ## Summary
 
-Based on the results of our models we can say that all but one of these models will not work for our purposes. Across the board the precision score for each model is not satisfactory to our needs. Our low precision scores are indicative of a large number of false positives. When we look at the recall value we see a similar story; as all but one model hover around .70. This tells us that our model will yield a large number of false negatives. However, there is one model that stood out amongst all the inaccurate ones, and that is the Easy Ensemble Classifier. While our precision score is not 
+Based on the results of our models we can say that all but one of these models will not work for our purposes. Across the board the precision score for each model is not satisfactory to our needs. Our low precision scores are indicative of a large number of false positives. When we look at the recall value we see a similar story; as all but one model hover around .70. This tells us that our model will yield a large number of false negatives. However, there is one model that stood out amongst all the inaccurate ones, and that is the Easy Ensemble Classifier. While our precision score is not as high as we would like it to be, the recall value of .91 is easily the highest amongst our tested models. Therefore, I would recommend that we move forward with the Easy Ensemble Classifier and find a way to improve its precision score.
 
 
