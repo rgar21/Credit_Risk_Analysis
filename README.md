@@ -8,7 +8,7 @@ The intent of this analysis is to compile tables that will display information f
 
   * Random Oversampler
 
-![Random_Oversampler](https://user-images.githubusercontent.com/106921601/194127969-ad8ea9a5-d878-46e9- ab11-9e8403fb3d3b.PNG)
+![Random_Oversampler](https://user-images.githubusercontent.com/106921601/194129916-f5d17ff6-6e7f-4b55-9dd0-78574af3c074.PNG)
 
  * SMOTE
 
